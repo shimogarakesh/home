@@ -6,4 +6,4 @@ Before I started my PhD I was involved in measuring N<sub>2</sub>O emissions fro
 
 I would like to explore options collaborations in studying temperature sensitivity of tropical crops and sustainable agriculture. 
 
-Founder of [Kannada Pustaka Initiative](kannadapustaka.org), an online open library of audio textbooks for the education of visually challenged in the state of Karnataka, India.
+Founder of [Kannada Pustaka Initiative](kannadapustaka.org), an online open library of audio textbooks for the education of visually challenged in the state of Karnataka, India - India's first distributed proofreading initiative run by volunteers.
