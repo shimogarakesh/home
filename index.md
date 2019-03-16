@@ -1,7 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shimogarakesh/rakesh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A plant ecophysiologist based in School of Geography, University of Leeds. I am currently writing up my PhD thesis on high temperature sensitivity of tropical forest trees. I am interested in studying high temperature limits of photosynthetic process. I studied temperature sensitivity of photosynthesis on trees from the hottest evergreen forest site located in the Southern Amazon as well as on soybean. 
 
+Before I started my PhD I was involved in measuring N2O emissions from smallholder crop systems across four states of Southern India. I was involved in development of N2O and CH4 measurement protocols for emission reduction 
+
+I would like to explore options 
+
+
+while   photosynthetic  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
